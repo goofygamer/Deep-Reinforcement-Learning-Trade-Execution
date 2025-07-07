@@ -5,7 +5,7 @@ This repository contains the full implementation of a Deep Reinforcement Learnin
 The core achievement is an intelligent agent that learns a sophisticated, adaptive policy to minimize market impact, **achieving a >40% reduction in average implementation shortfall and slashing outcome variance by >70%** against industry-standard TWAP and VWAP benchmarks.
 
 <p align="center">
-  <a href="[Link to PDF]"><strong>View the Full Research Paper (PDF)</strong></a>
+  <a href="Optimal Trade Execution via Deep Reinforcement Learning.pdf"><strong>View the Full Research Paper (PDF)</strong></a>
 </p>
 
 ---
